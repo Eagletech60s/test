@@ -127,7 +127,7 @@ hr {
 }
 
 .info-section {
-    background-image: url(./images/Rectangle\ 4.png);
+    background-image: url(Rectangle\ 4.png);
     color: white;
     text-align: center;
 }
@@ -165,7 +165,7 @@ hr {
     height: 79px;
     top: 70%;
     left: 30%;
-    background: url(./images/Group\ 11.png);
+    background: url(Group\ 11.png);
 }
 
 .flash img {
@@ -180,5 +180,5 @@ hr {
     height: 524px;
     right: 26px;
     top: 122px;
-    background: url(./images/women.png);
+    background: url(women.png);
 }
